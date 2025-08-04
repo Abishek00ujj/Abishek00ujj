@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abishek00ujj&label=Profile%20views&color=0e75b6&style=flat" alt="abishek00ujj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abishek00ujj" alt="abishek00ujj" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://codewithabi.vercel.app](https://codewithabi.vercel.app)
 
